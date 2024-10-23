@@ -1,9 +1,9 @@
-# Color pallete generator
-This application will provide different color pallete options from a color of your choosing.  
+# Color palette generator
+This application will provide different color palette options from a color of your choosing.  
 
 ## Description
 
-This application will let you choose from seven different color pallete types.  It interacts with the color api website.
+This application will let you choose from seven different color pallete types.  It interacts with the color API website.
 
 ## Getting Started
 
